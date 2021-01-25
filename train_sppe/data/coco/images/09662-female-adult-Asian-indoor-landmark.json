@@ -1,0 +1,95 @@
+{
+    "points": [
+        {
+            "coordinate": [
+                240.66665649414062,
+                296
+            ],
+            "type": "invisible",
+            "id": "1-1",
+            "label": "Head tip"
+        },
+        {
+            "coordinate": [
+                304.6666564941406,
+                532
+            ],
+            "type": "visible",
+            "id": "2-2",
+            "label": "Neck"
+        },
+        {
+            "coordinate": [
+                361.6666564941406,
+                532
+            ],
+            "type": "visible",
+            "id": "3-3",
+            "label": "Left shoulder"
+        },
+        {
+            "coordinate": [
+                201.66665649414062,
+                597
+            ],
+            "type": "invisible",
+            "id": "4-4",
+            "label": "Right shoulder"
+        },
+        {
+            "coordinate": [
+                415.1666564941406,
+                813
+            ],
+            "type": "visible",
+            "id": "5-5",
+            "label": "Left elbow"
+        },
+        {
+            "coordinate": [
+                136.66665649414062,
+                891.5
+            ],
+            "type": "visible",
+            "id": "6-6",
+            "label": "Right elbow"
+        },
+        {
+            "coordinate": [
+                575.6666564941406,
+                752
+            ],
+            "type": "visible",
+            "id": "7-7",
+            "label": "Left wrist"
+        },
+        {
+            "coordinate": [
+                636.6666564941406,
+                728
+            ],
+            "type": "invisible",
+            "id": "9-9",
+            "label": "Left palm center"
+        },
+        {
+            "coordinate": [
+                369.5,
+                890.1000061035156
+            ],
+            "type": "invisible",
+            "id": "11-11",
+            "label": "Left hip"
+        },
+        {
+            "coordinate": [
+                189.5,
+                935.1000061035156
+            ],
+            "type": "invisible",
+            "id": "12-12",
+            "label": "Right hip"
+        }
+    ],
+    "title": "session_04/09662-female-adult-yellow-indoor.jpg"
+}

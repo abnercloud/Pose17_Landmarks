@@ -1,0 +1,86 @@
+{
+    "points": [
+        {
+            "coordinate": [
+                438.6666564941406,
+                129
+            ],
+            "type": "invisible",
+            "id": "1-1",
+            "label": "Head tip"
+        },
+        {
+            "coordinate": [
+                490.6666564941406,
+                441
+            ],
+            "type": "visible",
+            "id": "2-2",
+            "label": "Neck"
+        },
+        {
+            "coordinate": [
+                703.0000247871094,
+                460.94886206738283
+            ],
+            "type": "visible",
+            "id": "3-3",
+            "label": "Left shoulder"
+        },
+        {
+            "coordinate": [
+                268.0000247871094,
+                553.9488620673828
+            ],
+            "type": "visible",
+            "id": "4-4",
+            "label": "Right shoulder"
+        },
+        {
+            "coordinate": [
+                972.0000247871094,
+                541.9488620673828
+            ],
+            "type": "visible",
+            "id": "5-5",
+            "label": "Left elbow"
+        },
+        {
+            "coordinate": [
+                112.0000247871094,
+                755.3686077584227
+            ],
+            "type": "visible",
+            "id": "6-6",
+            "label": "Right elbow"
+        },
+        {
+            "coordinate": [
+                291.0000247871094,
+                964.9488620673828
+            ],
+            "type": "visible",
+            "id": "8-8",
+            "label": "Right wrist"
+        },
+        {
+            "coordinate": [
+                667.0000247871094,
+                1058.3686077584227
+            ],
+            "type": "invisible",
+            "id": "11-11",
+            "label": "Left hip"
+        },
+        {
+            "coordinate": [
+                346.0000247871094,
+                1059.3686077584227
+            ],
+            "type": "invisible",
+            "id": "12-12",
+            "label": "Right hip"
+        }
+    ],
+    "title": "session_04/09633-male-adult-yellow-indoor.jpg"
+}

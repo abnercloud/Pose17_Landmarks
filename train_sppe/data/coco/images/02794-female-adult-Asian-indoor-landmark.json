@@ -1,0 +1,131 @@
+{
+    "points": [
+        {
+            "coordinate": [
+                327.5,
+                16
+            ],
+            "type": "invisible",
+            "id": "1-1",
+            "label": "Head tip"
+        },
+        {
+            "coordinate": [
+                320.75,
+                131
+            ],
+            "type": "visible",
+            "id": "2-2",
+            "label": "Neck"
+        },
+        {
+            "coordinate": [
+                394.75,
+                156.5
+            ],
+            "type": "visible",
+            "id": "3-3",
+            "label": "Left shoulder"
+        },
+        {
+            "coordinate": [
+                257.75,
+                153.25
+            ],
+            "type": "visible",
+            "id": "4-4",
+            "label": "Right shoulder"
+        },
+        {
+            "coordinate": [
+                413,
+                278
+            ],
+            "type": "visible",
+            "id": "5-5",
+            "label": "Left elbow"
+        },
+        {
+            "coordinate": [
+                250.75,
+                260.75
+            ],
+            "type": "visible",
+            "id": "6-6",
+            "label": "Right elbow"
+        },
+        {
+            "coordinate": [
+                403,
+                378.75
+            ],
+            "type": "invisible",
+            "id": "7-7",
+            "label": "Left wrist"
+        },
+        {
+            "coordinate": [
+                264.5,
+                334.25
+            ],
+            "type": "invisible",
+            "id": "8-8",
+            "label": "Right wrist"
+        },
+        {
+            "coordinate": [
+                406.5,
+                414.25
+            ],
+            "type": "visible",
+            "id": "9-9",
+            "label": "Left palm center"
+        },
+        {
+            "coordinate": [
+                263.5,
+                375.25
+            ],
+            "type": "visible",
+            "id": "10-10",
+            "label": "Right palm center"
+        },
+        {
+            "coordinate": [
+                374.5,
+                326.25
+            ],
+            "type": "invisible",
+            "id": "11-11",
+            "label": "Left hip"
+        },
+        {
+            "coordinate": [
+                282.5,
+                326.25
+            ],
+            "type": "invisible",
+            "id": "12-12",
+            "label": "Right hip"
+        },
+        {
+            "coordinate": [
+                364.5,
+                513.25
+            ],
+            "type": "invisible",
+            "id": "13-13",
+            "label": "Left knee"
+        },
+        {
+            "coordinate": [
+                289.5,
+                500.25
+            ],
+            "type": "invisible",
+            "id": "14-14",
+            "label": "Right knee"
+        }
+    ],
+    "title": "session_04/02794-female-adult-yellow-indoor.jpg"
+}

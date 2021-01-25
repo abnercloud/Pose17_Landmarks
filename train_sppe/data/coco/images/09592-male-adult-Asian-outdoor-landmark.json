@@ -1,0 +1,77 @@
+{
+    "points": [
+        {
+            "coordinate": [
+                372.6666564941406,
+                103
+            ],
+            "type": "invisible",
+            "id": "1-1",
+            "label": "Head tip"
+        },
+        {
+            "coordinate": [
+                366.5,
+                444.1000061035156
+            ],
+            "type": "invisible",
+            "id": "2-2",
+            "label": "Neck"
+        },
+        {
+            "coordinate": [
+                582.6666564941406,
+                498.6666660308838
+            ],
+            "type": "invisible",
+            "id": "3-3",
+            "label": "Left shoulder"
+        },
+        {
+            "coordinate": [
+                153.66665649414062,
+                482.6666660308838
+            ],
+            "type": "invisible",
+            "id": "4-4",
+            "label": "Right shoulder"
+        },
+        {
+            "coordinate": [
+                637.6666564941406,
+                845.6666660308838
+            ],
+            "type": "invisible",
+            "id": "5-5",
+            "label": "Left elbow"
+        },
+        {
+            "coordinate": [
+                28.666656494140625,
+                802.6666660308838
+            ],
+            "type": "invisible",
+            "id": "6-6",
+            "label": "Right elbow"
+        },
+        {
+            "coordinate": [
+                262.6666564941406,
+                711.6666660308838
+            ],
+            "type": "invisible",
+            "id": "8-8",
+            "label": "Right wrist"
+        },
+        {
+            "coordinate": [
+                276.6666564941406,
+                639.6666660308838
+            ],
+            "type": "visible",
+            "id": "10-10",
+            "label": "Right palm center"
+        }
+    ],
+    "title": "session_04/09592-male-adult-yellow-outdoor.jpg"
+}

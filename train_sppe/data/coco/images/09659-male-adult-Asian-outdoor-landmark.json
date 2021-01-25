@@ -1,0 +1,95 @@
+{
+    "points": [
+        {
+            "coordinate": [
+                214.66665649414062,
+                96
+            ],
+            "type": "invisible",
+            "id": "1-1",
+            "label": "Head tip"
+        },
+        {
+            "coordinate": [
+                435.6666564941406,
+                328
+            ],
+            "type": "visible",
+            "id": "2-2",
+            "label": "Neck"
+        },
+        {
+            "coordinate": [
+                533.6666564941406,
+                195
+            ],
+            "type": "invisible",
+            "id": "3-3",
+            "label": "Left shoulder"
+        },
+        {
+            "coordinate": [
+                311.6666564941406,
+                451
+            ],
+            "type": "invisible",
+            "id": "4-4",
+            "label": "Right shoulder"
+        },
+        {
+            "coordinate": [
+                881.6666564941406,
+                121
+            ],
+            "type": "visible",
+            "id": "5-5",
+            "label": "Left elbow"
+        },
+        {
+            "coordinate": [
+                474.6666564941406,
+                41
+            ],
+            "type": "visible",
+            "id": "7-7",
+            "label": "Left wrist"
+        },
+        {
+            "coordinate": [
+                372.6666564941406,
+                15
+            ],
+            "type": "visible",
+            "id": "9-9",
+            "label": "Left palm center"
+        },
+        {
+            "coordinate": [
+                801.5,
+                483.1000061035156
+            ],
+            "type": "invisible",
+            "id": "11-11",
+            "label": "Left hip"
+        },
+        {
+            "coordinate": [
+                682.6666564941406,
+                709
+            ],
+            "type": "invisible",
+            "id": "12-12",
+            "label": "Right hip"
+        },
+        {
+            "coordinate": [
+                808.6666564941406,
+                231
+            ],
+            "type": "invisible",
+            "id": "13-13",
+            "label": "Left knee"
+        }
+    ],
+    "title": "session_04/09659-male-adult-yellow-outdoor.jpg"
+}

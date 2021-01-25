@@ -1,0 +1,77 @@
+{
+    "points": [
+        {
+            "coordinate": [
+                116.66665649414062,
+                125.5
+            ],
+            "type": "invisible",
+            "id": "1-1",
+            "label": "Head tip"
+        },
+        {
+            "coordinate": [
+                178.66665649414062,
+                375.5
+            ],
+            "type": "visible",
+            "id": "2-2",
+            "label": "Neck"
+        },
+        {
+            "coordinate": [
+                356.6666564941406,
+                361.5
+            ],
+            "type": "visible",
+            "id": "3-3",
+            "label": "Left shoulder"
+        },
+        {
+            "coordinate": [
+                30.666656494140625,
+                394.5
+            ],
+            "type": "visible",
+            "id": "4-4",
+            "label": "Right shoulder"
+        },
+        {
+            "coordinate": [
+                398.6666564941406,
+                626.5
+            ],
+            "type": "visible",
+            "id": "5-5",
+            "label": "Left elbow"
+        },
+        {
+            "coordinate": [
+                48.666656494140625,
+                623.5
+            ],
+            "type": "visible",
+            "id": "6-6",
+            "label": "Right elbow"
+        },
+        {
+            "coordinate": [
+                338.6666564941406,
+                618.75
+            ],
+            "type": "invisible",
+            "id": "11-11",
+            "label": "Left hip"
+        },
+        {
+            "coordinate": [
+                151.66665649414062,
+                610.75
+            ],
+            "type": "invisible",
+            "id": "12-12",
+            "label": "Right hip"
+        }
+    ],
+    "title": "session_04/09638-male-adult-yellow-indoor.jpg"
+}

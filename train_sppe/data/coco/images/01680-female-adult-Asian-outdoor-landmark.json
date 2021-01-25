@@ -1,0 +1,50 @@
+{
+    "points": [
+        {
+            "coordinate": [
+                536.0000247871094,
+                34.948862067382834
+            ],
+            "type": "invisible",
+            "id": "1-1",
+            "label": "Head tip"
+        },
+        {
+            "coordinate": [
+                506.0000247871094,
+                491.94886206738283
+            ],
+            "type": "visible",
+            "id": "2-2",
+            "label": "Neck"
+        },
+        {
+            "coordinate": [
+                733.0000247871094,
+                642.9488620673828
+            ],
+            "type": "invisible",
+            "id": "3-3",
+            "label": "Left shoulder"
+        },
+        {
+            "coordinate": [
+                239.7500247871094,
+                508.69886206738283
+            ],
+            "type": "visible",
+            "id": "4-4",
+            "label": "Right shoulder"
+        },
+        {
+            "coordinate": [
+                257.7500247871094,
+                940.6988620673828
+            ],
+            "type": "visible",
+            "id": "6-6",
+            "label": "Right elbow"
+        }
+    ],
+    "title": "session_04/01680-female-adult-yellow-outdoor.jpg"
+}

@@ -1,0 +1,158 @@
+{
+    "points": [
+        {
+            "coordinate": [
+                349.09999084472656,
+                17.800003051757812
+            ],
+            "type": "invisible",
+            "id": "1-1",
+            "label": "Head tip"
+        },
+        {
+            "coordinate": [
+                296.09999084472656,
+                101.80000305175781
+            ],
+            "type": "visible",
+            "id": "2-2",
+            "label": "Neck"
+        },
+        {
+            "coordinate": [
+                352.09999084472656,
+                117.30000305175781
+            ],
+            "type": "invisible",
+            "id": "3-3",
+            "label": "Left shoulder"
+        },
+        {
+            "coordinate": [
+                230.59999084472656,
+                104.80000305175781
+            ],
+            "type": "visible",
+            "id": "4-4",
+            "label": "Right shoulder"
+        },
+        {
+            "coordinate": [
+                358.09999084472656,
+                216.8000030517578
+            ],
+            "type": "visible",
+            "id": "5-5",
+            "label": "Left elbow"
+        },
+        {
+            "coordinate": [
+                216.59999084472656,
+                204.8000030517578
+            ],
+            "type": "visible",
+            "id": "6-6",
+            "label": "Right elbow"
+        },
+        {
+            "coordinate": [
+                397.09999084472656,
+                301.3000030517578
+            ],
+            "type": "visible",
+            "id": "7-7",
+            "label": "Left wrist"
+        },
+        {
+            "coordinate": [
+                191.59999084472656,
+                296.8000030517578
+            ],
+            "type": "visible",
+            "id": "8-8",
+            "label": "Right wrist"
+        },
+        {
+            "coordinate": [
+                412.59999084472656,
+                331.8000030517578
+            ],
+            "type": "visible",
+            "id": "9-9",
+            "label": "Left palm center"
+        },
+        {
+            "coordinate": [
+                182.59999084472656,
+                323.3000030517578
+            ],
+            "type": "visible",
+            "id": "10-10",
+            "label": "Right palm center"
+        },
+        {
+            "coordinate": [
+                330.59999084472656,
+                260.3000030517578
+            ],
+            "type": "invisible",
+            "id": "11-11",
+            "label": "Left hip"
+        },
+        {
+            "coordinate": [
+                236.59999084472656,
+                265.8000030517578
+            ],
+            "type": "invisible",
+            "id": "12-12",
+            "label": "Right hip"
+        },
+        {
+            "coordinate": [
+                297.09999084472656,
+                441.3000030517578
+            ],
+            "type": "visible",
+            "id": "13-13",
+            "label": "Left knee"
+        },
+        {
+            "coordinate": [
+                246.09999084472656,
+                448.3000030517578
+            ],
+            "type": "visible",
+            "id": "14-14",
+            "label": "Right knee"
+        },
+        {
+            "coordinate": [
+                271.09999084472656,
+                550.3000030517578
+            ],
+            "type": "invisible",
+            "id": "15-15",
+            "label": "Left ankle"
+        },
+        {
+            "coordinate": [
+                236.59999084472656,
+                587.8000030517578
+            ],
+            "type": "invisible",
+            "id": "16-16",
+            "label": "Right ankle"
+        },
+        {
+            "coordinate": [
+                266.09999084472656,
+                602.3000030517578
+            ],
+            "type": "visible",
+            "id": "17-17",
+            "label": "Left tiptoe"
+        }
+    ],
+    "title": "session_04/02777-female-adult-yellow-outdoor.jpg"
+}

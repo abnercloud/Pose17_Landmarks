@@ -1,0 +1,68 @@
+{
+    "points": [
+        {
+            "coordinate": [
+                294,
+                222
+            ],
+            "type": "invisible",
+            "id": "1-1",
+            "label": "Head tip"
+        },
+        {
+            "coordinate": [
+                327.5,
+                532.5
+            ],
+            "type": "visible",
+            "id": "2-2",
+            "label": "Neck"
+        },
+        {
+            "coordinate": [
+                495.5,
+                540.5
+            ],
+            "type": "invisible",
+            "id": "3-3",
+            "label": "Left shoulder"
+        },
+        {
+            "coordinate": [
+                119.5,
+                662.5
+            ],
+            "type": "invisible",
+            "id": "4-4",
+            "label": "Right shoulder"
+        },
+        {
+            "coordinate": [
+                598,
+                923.5
+            ],
+            "type": "visible",
+            "id": "5-5",
+            "label": "Left elbow"
+        },
+        {
+            "coordinate": [
+                459,
+                571.5
+            ],
+            "type": "visible",
+            "id": "7-7",
+            "label": "Left wrist"
+        },
+        {
+            "coordinate": [
+                439,
+                489.5
+            ],
+            "type": "visible",
+            "id": "9-9",
+            "label": "Left palm center"
+        }
+    ],
+    "title": "session_04/00893-female-adult-yellow-indoor.jpg"
+}

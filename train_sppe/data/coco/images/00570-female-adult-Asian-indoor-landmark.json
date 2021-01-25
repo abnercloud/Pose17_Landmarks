@@ -1,0 +1,41 @@
+{
+    "points": [
+        {
+            "coordinate": [
+                284,
+                31
+            ],
+            "type": "invisible",
+            "id": "1-1",
+            "label": "Head tip"
+        },
+        {
+            "coordinate": [
+                345,
+                543
+            ],
+            "type": "visible",
+            "id": "2-2",
+            "label": "Neck"
+        },
+        {
+            "coordinate": [
+                106,
+                643.5
+            ],
+            "type": "invisible",
+            "id": "3-3",
+            "label": "Left shoulder"
+        },
+        {
+            "coordinate": [
+                626,
+                617.5
+            ],
+            "type": "invisible",
+            "id": "4-4",
+            "label": "Right shoulder"
+        }
+    ],
+    "title": "session_04/00570-female-adult-yellow-indoor.jpg"
+}

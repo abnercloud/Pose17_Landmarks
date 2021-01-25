@@ -1,0 +1,95 @@
+{
+    "points": [
+        {
+            "coordinate": [
+                356.3999938964844,
+                220.8000030517578
+            ],
+            "type": "invisible",
+            "id": "1-1",
+            "label": "Head tip"
+        },
+        {
+            "coordinate": [
+                330.3999938964844,
+                349.8000030517578
+            ],
+            "type": "visible",
+            "id": "2-2",
+            "label": "Neck"
+        },
+        {
+            "coordinate": [
+                211.39999389648438,
+                377.8000030517578
+            ],
+            "type": "visible",
+            "id": "3-3",
+            "label": "Left shoulder"
+        },
+        {
+            "coordinate": [
+                447.3999938964844,
+                406.8000030517578
+            ],
+            "type": "visible",
+            "id": "4-4",
+            "label": "Right shoulder"
+        },
+        {
+            "coordinate": [
+                166.39999389648438,
+                260.3000030517578
+            ],
+            "type": "visible",
+            "id": "5-5",
+            "label": "Left elbow"
+        },
+        {
+            "coordinate": [
+                510.3999938964844,
+                258.8000030517578
+            ],
+            "type": "visible",
+            "id": "6-6",
+            "label": "Right elbow"
+        },
+        {
+            "coordinate": [
+                166.39999389648438,
+                113.30000305175781
+            ],
+            "type": "invisible",
+            "id": "7-7",
+            "label": "Left wrist"
+        },
+        {
+            "coordinate": [
+                556.3999938964844,
+                119.80000305175781
+            ],
+            "type": "visible",
+            "id": "8-8",
+            "label": "Right wrist"
+        },
+        {
+            "coordinate": [
+                162.64999389648438,
+                61.55000305175781
+            ],
+            "type": "visible",
+            "id": "9-9",
+            "label": "Left palm center"
+        },
+        {
+            "coordinate": [
+                578.8999938964844,
+                79.30000305175781
+            ],
+            "type": "visible",
+            "id": "10-10",
+            "label": "Right palm center"
+        }
+    ],
+    "title": "session_04/00408-female-adult-yellow-indoor.jpg"
+}

@@ -1,0 +1,41 @@
+{
+    "points": [
+        {
+            "coordinate": [
+                400.7777604902344,
+                357.04512499218754
+            ],
+            "type": "invisible",
+            "id": "1-1",
+            "label": "Head tip"
+        },
+        {
+            "coordinate": [
+                410.7777604902344,
+                793.0451249921875
+            ],
+            "type": "visible",
+            "id": "2-2",
+            "label": "Neck"
+        },
+        {
+            "coordinate": [
+                112.0000247871094,
+                966.4488620673828
+            ],
+            "type": "invisible",
+            "id": "3-3",
+            "label": "Left shoulder"
+        },
+        {
+            "coordinate": [
+                566.0000247871094,
+                824.4488620673828
+            ],
+            "type": "invisible",
+            "id": "4-4",
+            "label": "Right shoulder"
+        }
+    ],
+    "title": "session_04/01541-male-adult-yellow-indoor.jpg"
+}

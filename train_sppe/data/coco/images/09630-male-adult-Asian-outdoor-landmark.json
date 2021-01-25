@@ -1,0 +1,59 @@
+{
+    "points": [
+        {
+            "coordinate": [
+                586.1666564941406,
+                402
+            ],
+            "type": "invisible",
+            "id": "1-1",
+            "label": "Head tip"
+        },
+        {
+            "coordinate": [
+                593.1666564941406,
+                489.5
+            ],
+            "type": "visible",
+            "id": "2-2",
+            "label": "Neck"
+        },
+        {
+            "coordinate": [
+                628.1666564941406,
+                535
+            ],
+            "type": "invisible",
+            "id": "3-3",
+            "label": "Left shoulder"
+        },
+        {
+            "coordinate": [
+                582.6666564941406,
+                534
+            ],
+            "type": "invisible",
+            "id": "4-4",
+            "label": "Right shoulder"
+        },
+        {
+            "coordinate": [
+                641.6666564941406,
+                665.25
+            ],
+            "type": "invisible",
+            "id": "5-5",
+            "label": "Left elbow"
+        },
+        {
+            "coordinate": [
+                596.1666564941406,
+                660.75
+            ],
+            "type": "invisible",
+            "id": "6-6",
+            "label": "Right elbow"
+        }
+    ],
+    "title": "session_04/09630-male-adult-yellow-outdoor.jpg"
+}
