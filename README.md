@@ -1,5 +1,5 @@
 # Pose17_Landmarks
-Pose17_Landmarks人手21关键点模型训练推理。
+Pose17_Landmarks人体17关键点模型训练推理。
 
 
 # 安装
